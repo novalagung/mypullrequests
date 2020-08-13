@@ -1,4 +1,6 @@
-# List of my open source contributions
+# My Open Source Contributions
+
+*Probably not that important* 🤷
 
 | Project | Status | Description | Link |
 | ------- | :----: | ----------- | ---- |
@@ -25,4 +27,4 @@
 | UIImagePickerWithEditor&nbsp;iOS | - | fix misplaced delegate | https://git.io/JJ7v2 |
 | Commitment | **MERGED** | added some unimportant messages | https://git.io/JJ7vu |
 
-> **RESOLVED** means merged via another PR
+\* **RESOLVED** means merged via another PR
