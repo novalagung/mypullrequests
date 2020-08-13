@@ -22,9 +22,9 @@
 | *Old* Modernizr | **MERGED** | fix typo | https://git.io/JfvEA |
 | CDN.js | **RESOLVED** | add filesaver.js | https://git.io/JfvEp |
 | Vagrant | **RESOLVED** | bugfix on filepath contains space | https://git.io/Jfvue |
-| SKPSMTPMessageDelegate | - | pointer var retency update | https://git.io/JfvEj |
+| SKPSMTPMessageDelegate iOS | - | pointer var retency update | https://git.io/JfvEj |
 | DB5 iOS | **MERGED** | readme improvements | https://git.io/JJ7vV |
-| UIImagePickerWithEditor&nbsp;iOS | - | fix misplaced delegate | https://git.io/JJ7v2 |
+| UIImagePickerWithEditor iOS | - | fix misplaced delegate | https://git.io/JJ7v2 |
 | Commitment | **MERGED** | added some unimportant messages | https://git.io/JJ7vu |
 
 \* **RESOLVED** means merged via another PR
