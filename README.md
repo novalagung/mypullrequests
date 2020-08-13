@@ -3,7 +3,7 @@
 *Probably not that important* 🤷
 
 | Project | Status | Description | Link |
-| ------- | :----: | ----------- | ---- |
+| ------- | :----: | ----------- | :--: |
 | KrakendD API Gateway | **MERGED** | add more example with go-chi router | https://git.io/JJlfM |
 | Go ftp library | **MERGED** | readme updates | https://git.io/JJG8C |
 | Kustomize (Kubernetes SIG) | **MERGED** | unit test updates | https://git.io/JfIZI |
