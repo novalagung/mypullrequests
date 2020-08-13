@@ -4,10 +4,10 @@
 
 | Project | Status | Description | Link |
 | ------- | :----: | ----------- | ---- |
-| KrakendD | **MERGED** | add more example with go-chi router | https://git.io/JJlfM |
-| go ftp library | **MERGED** | readme updates | https://git.io/JJG8C |
-| K8s SIG Kustomize | **MERGED** | unit test updates | https://git.io/JfIZI |
-| KrakenD | **MERGED** | documentation udates | https://git.io/JfvEX |
+| KrakendD API Gateway | **MERGED** | add more example with go-chi router | https://git.io/JJlfM |
+| Go ftp library | **MERGED** | readme updates | https://git.io/JJG8C |
+| Kustomize (Kubernetes SIG) | **MERGED** | unit test updates | https://git.io/JfIZI |
+| KrakenD API Gateway | **MERGED** | documentation udates | https://git.io/JfvEX |
 | Grafana | **MERGED** | dependency upgrade | https://git.io/JfvE1 |
 | Go Oracle Driver | **MERGED** | documentation updates | https://git.io/JfvEM |
 | OWASP WSTG RFC | **MERGED** | documentation updates | https://git.io/JfvED |
