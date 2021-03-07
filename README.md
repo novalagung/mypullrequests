@@ -4,6 +4,7 @@
 
 | Project | Status | Description | Link |
 | ------- | :----: | ----------- | :--: |
+| Torrent Stream | **MERGED** | critical bug fix on node v14 | https://git.io/JIsIx |
 | KrakendD API Gateway | **MERGED** | add more example with go-chi router | https://git.io/JJlfM |
 | Go ftp library | **MERGED** | readme updates | https://git.io/JJG8C |
 | Kustomize (Kubernetes SIG) | **MERGED** | unit test updates | https://git.io/JfIZI |
