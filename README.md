@@ -17,8 +17,8 @@
 | React Native website | **RESOLVED** | documentation updates | https://git.io/JfvES |
 | go-saml | **MERGED** | bugfix connectivity on older IDP version | https://git.io/JfvE9 |
 | go-ldap | **MERGED** | bugfix connectivity on Oracle AD | https://git.io/JfvEH |
-| devhints.io | - | add cheatsheet for go toolkit | https://git.io/JfvE7 |
-| Go source code | - | documentation updates | https://git.io/JfvE5 |
+| devhints.io | **WAITING** | add cheatsheet for go toolkit | https://git.io/JfvE7 |
+| Go source code | **WAITING** | documentation updates | https://git.io/JfvE5 |
 | Awesome Go | **MERGED** | add my lib to the list | https://git.io/JfvEb |
 | go-underscore | **MERGED** | example updates | https://git.io/JJ7vr |
 | *Old* Modernizr | **MERGED** | fix typo | https://git.io/JfvEA |
