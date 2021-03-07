@@ -8,6 +8,7 @@
 | KrakendD API Gateway | **MERGED** | add more example with go-chi router | https://git.io/JJlfM |
 | Go ftp library | **MERGED** | readme updates | https://git.io/JJG8C |
 | Kustomize (Kubernetes SIG) | **MERGED** | unit test updates | https://git.io/JfIZI |
+| W3C Epub Check | **SCHEDULED** | add docker support and update doc | https://git.io/JqktR |
 | KrakenD API Gateway | **MERGED** | documentation udates | https://git.io/JfvEX |
 | Grafana | **MERGED** | dependency upgrade | https://git.io/JfvE1 |
 | Go Oracle Driver | **MERGED** | documentation updates | https://git.io/JfvEM |
