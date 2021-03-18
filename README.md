@@ -2,7 +2,7 @@
 
 *Probably not that important* 🤷
 
-| No. | Project | Status | Description | Link |
+| No. | Project | Status | Patch description | Pull request link |
 | :-: | ------- | :----: | ----------- | :--: |
 | 24 | Torrent Stream | **MERGED** | critical bug fix on node v14 | https://git.io/JIsIx |
 | 23 | KrakendD API Gateway | **MERGED** | add more example with go-chi router | https://git.io/JJlfM |
