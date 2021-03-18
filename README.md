@@ -4,19 +4,19 @@
 
 | No. | Project | Status | Patch description | Pull request link |
 | :-: | ------- | :----: | ----------- | :--: |
-| 24 | Torrent Stream | **MERGED** | fix: tmpdir on node v14 | https://git.io/JIsIx |
+| 24 | Torrent Stream | **MERGED** | fix: tmpdir issue on node v14 | https://git.io/JIsIx |
 | 23 | KrakendD API Gateway | **MERGED** | feat: add more example with go-chi router | https://git.io/JJlfM |
 | 22 | Go FTP library | **MERGED** | feat: update readme | https://git.io/JJG8C |
 | 21 | Kustomize (Kubernetes SIG) | **MERGED** | fix: unit test | https://git.io/JfIZI |
-| 20 | W3C Epub Check | **SCHEDULED** | feat:"add docker support, update doc | https://git.io/JqktR |
+| 20 | W3C Epub Check | **SCHEDULED** | feat: add docker support, update doc | https://git.io/JqktR |
 | 19 | KrakenD API Gateway | **MERGED** | feat: udate documentation | https://git.io/JfvEX |
 | 18 | Grafana | **MERGED** | refactor: upgrade dependency | https://git.io/JfvE1 |
 | 17 | Go Oracle Driver | **MERGED** | feat: update documentation | https://git.io/JfvEM |
 | 16 | OWASP WSTG RFC | **MERGED** | feat: update documentation | https://git.io/JfvED |
 | 15 | gRPC website | **MERGED** | feat: update example | https://git.io/JfvEy |
 | 14 | React Native website | **RESOLVED** | feat: update documentation | https://git.io/JfvES |
-| 13 | go-saml | **MERGED** | fix: IDP compatibility | https://git.io/JfvE9 |
-| 12 | go-ldap | **MERGED** | fix: Oracle AD connectivity | https://git.io/JfvEH |
+| 13 | go-saml | **MERGED** | fix: idp compatibility issue | https://git.io/JfvE9 |
+| 12 | go-ldap | **MERGED** | fix: oracle ad connectivity issue | https://git.io/JfvEH |
 | 11 | Devhints website | **WAITING** | feat: add cheatsheet for go toolkit | https://git.io/JfvE7 |
 | 10 | Go source code | **WAITING** | feat: update documentation | https://git.io/JfvE5 |
 | 9 | Awesome Go | **MERGED** | feat: add lib to the list | https://git.io/JfvEb |
