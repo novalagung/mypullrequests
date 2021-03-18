@@ -15,8 +15,8 @@
 | 16 | OWASP WSTG RFC | **MERGED** | documentation update | https://git.io/JfvED |
 | 15 | gRPC website | **MERGED** | example update | https://git.io/JfvEy |
 | 14 | React Native website | **RESOLVED** | documentation update | https://git.io/JfvES |
-| 13 | go-saml | **MERGED** | bugfix connectivity on older IDP version | https://git.io/JfvE9 |
-| 12 | go-ldap | **MERGED** | bugfix connectivity on Oracle AD | https://git.io/JfvEH |
+| 13 | go-saml | **MERGED** | IDP compatibility update | https://git.io/JfvE9 |
+| 12 | go-ldap | **MERGED** | Oracle AD connectivity update | https://git.io/JfvEH |
 | 11 | Devhints website | **WAITING** | add cheatsheet for go toolkit | https://git.io/JfvE7 |
 | 10 | Go source code | **WAITING** | documentation update | https://git.io/JfvE5 |
 | 9 | Awesome Go | **MERGED** | add lib to the list | https://git.io/JfvEb |
