@@ -4,6 +4,7 @@
 
 | No. | Project | Status | Patch description | Pull request link |
 | :-: | ------- | :----: | ----------- | :--: |
+| 25 | NATS.io site | **MERGED** | fix: invalid link on download latest button | https://git.io/J3RIS |
 | 24 | Torrent Stream | **MERGED** | fix: tmpdir issue on node v14 | https://git.io/JIsIx |
 | 23 | KrakendD API Gateway | **MERGED** | feat: add more example with go-chi router | https://git.io/JJlfM |
 | 22 | Go FTP library | **MERGED** | feat: update readme | https://git.io/JJG8C |
