@@ -4,6 +4,7 @@
 
 | No. | Project | Status | Patch description | Pull request link |
 | :-: | ------- | :----: | ----------- | :--: |
+| 26 | casbin | **MERGED** | fix: syntax error on example within readme.md | https://git.io/JcLDe |
 | 25 | react-native-ble-manager | **MERGED** | feat: add discover characteristics in included service (ios) | https://git.io/JsmuY |
 | 25 | NATS.io site | **MERGED** | fix: invalid link on download latest button | https://git.io/J3RIS |
 | 24 | Torrent Stream | **MERGED** | fix: tmpdir issue on node v14 | https://git.io/JIsIx |
