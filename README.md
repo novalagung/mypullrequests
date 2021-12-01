@@ -4,7 +4,7 @@
 
 | No. | Project | Status | Patch description | Pull request link |
 | :-: | ------- | :----: | ----------- | :--: |
-| 28 | Vonage Go SDK | **WAITING** | fix: [CVE-2020-26160](https://github.com/advisories/GHSA-w73w-5m7g-f7qc) | https://git.io/JMwQT |
+| 28 | Vonage Go SDK | **MERGED** | fix: [CVE-2020-26160](https://github.com/advisories/GHSA-w73w-5m7g-f7qc) | https://git.io/JMwQT |
 | 27 | Xendit Go SDK | **MERGED** | fix: incorrect struct declaration | https://git.io/JMwHp |
 | 26 | Casbin | **MERGED** | fix: syntax error on example within readme.md | https://git.io/JcLDe |
 | 25 | react-native-ble-manager | **MERGED** | feat: add discover characteristics in included service (ios) | https://git.io/JsmuY |
