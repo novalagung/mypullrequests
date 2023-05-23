@@ -14,7 +14,7 @@
 | 23 | KrakendD API Gateway | **MERGED** | feat: add more example with go-chi router | [PR link](https://github.com/devopsfaith/krakend-examples/pull/2) |
 | 22 | Go FTP library | **MERGED** | feat: update readme | [PR link](https://github.com/jlaffaye/ftp/pull/187) |
 | 21 | Kustomize (Kubernetes SIG) | **MERGED** | fix: unit test | [PR link](https://github.com/kubernetes-sigs/kustomize/pull/2383) |
-| 20 | W3C Epub Check | **SCHEDULED** | feat: add docker support, update doc | [PR link](https://github.com/w3c/epubcheck/pull/1127) |
+| 20 | W3C Epub Check | **MERGED** | feat: add docker support, update doc | [PR link](https://github.com/w3c/epubcheck/pull/1127) |
 | 19 | KrakenD API Gateway | **MERGED** | feat: udate documentation | [PR link](https://github.com/devopsfaith/krakend-documentation/pull/68) |
 | 18 | Grafana | **MERGED** | refactor: upgrade dependency | [PR link](https://github.com/grafana/grafana/pull/22376) |
 | 17 | Go Oracle Driver | **MERGED** | feat: update documentation | [PR link](https://github.com/godror/godror/pull/20) |
