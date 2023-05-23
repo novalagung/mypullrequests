@@ -24,7 +24,7 @@
 | 13 | go-saml | **MERGED** | fix: idp compatibility issue | [PR link](https://github.com/crewjam/saml/pull/217) |
 | 12 | go-ldap | **MERGED** | fix: oracle ad connectivity issue | [PR link](https://github.com/eaciit/ldap/pull/2) |
 | 11 | Devhints website | **WAITING** | feat: add cheatsheet for go toolkit | [PR link](https://github.com/rstacruz/cheatsheets/pull/1360) |
-| 10 | Go source code | **WAITING** | feat: update documentation | [PR link](https://github.com/golang/go/pull/35681) |
+| 10 | Go source code | **CLOSED** | feat: update documentation | [PR link](https://github.com/golang/go/pull/35681) |
 | 9 | Awesome Go | **MERGED** | feat: add lib to the list | [PR link](https://github.com/avelino/awesome-go/pull/1954) |
 | 8 | go-underscore | **MERGED** | feat: update example | [PR link](https://github.com/tobyhede/go-underscore/pull/11) |
 | 7 | *Old* Modernizr website | **MERGED** | feat: update documentation | [PR link](https://github.com/Modernizr/the-old-modernizr.com/pull/50) |
@@ -44,3 +44,4 @@
 | **SCHEDULED** | scheduled to be merged later |
 | **REPORTED** | an issue is reported, or a pull request is submitted, but not merged |
 | **WAITING** | waiting for maintainer response |
+| **CLOSED** | the PR is rejected |
