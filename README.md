@@ -4,6 +4,7 @@
 
 | No. | Project | Status | Patch description | Pull request link |
 | :-: | ------- | :----: | ----------- | :--: |
+| 31 | Grafana Intro to MLTP | **MERGED** | fix: docker-compose env issue | [pr link](https://github.com/grafana/intro-to-mltp/pull/70) |
 | 30 | Depot CLI | **MERGED** | fix: panic error on `depot cache reset` command | [pr link](https://github.com/depot/cli/pull/127) |
 | 29 | Go FCM | **MERGED** | fix: payload structure to follow spec | [PR link](https://github.com/appleboy/go-fcm/pull/33) |
 | 28 | Vonage Go SDK | **MERGED** | fix: [CVE-2020-26160](https://github.com/advisories/GHSA-w73w-5m7g-f7qc) | [PR link](https://github.com/Vonage/vonage-go-sdk/pull/70) |
