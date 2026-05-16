@@ -4,7 +4,7 @@
 
 | No. | Project | Status | Patch description | Pull request link |
 | :-: | ------- | :----: | ----------- | :--: |
-| 33 | One Uptime | **REPORTED** | doc: fix broken links on README.md | [pr link](https://github.com/OneUptime/oneuptime/pull/2440) |
+| 33 | One Uptime | **MERGED** | doc: fix broken links on README.md | [pr link](https://github.com/OneUptime/oneuptime/pull/2440) |
 | 32 | W3C Epub Check | **REPORTED** | doc: Update the Dockerfile build script & README.md | [pr link](https://github.com/w3c/epubcheck/pull/1660) |
 | 31 | Grafana Intro to MLTP | **MERGED** | fix: docker-compose env issue | [pr link](https://github.com/grafana/intro-to-mltp/pull/70) |
 | 30 | Depot CLI | **MERGED** | fix: panic error on `depot cache reset` command | [pr link](https://github.com/depot/cli/pull/127) |
